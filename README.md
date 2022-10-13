@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aarr0w
-- 👀 I’m interested in Backend and Audio Programming
+- 👀 I’m interested in Backend and Audio DSP Programming
 - 🌱 I’m currently learning JUCE
 - 📫 How to reach me:      aa.walk22@gmail.com
 
