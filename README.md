@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aarr0w
+- 👋 Hi, I’m Aaron Walker
 - 👀 I’m interested in Backend and Audio DSP Programming
 - 🌱 I’m currently learning JUCE
 - 📫 How to reach me:      aa.walk22@gmail.com
